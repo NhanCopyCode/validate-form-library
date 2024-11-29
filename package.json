@@ -1,0 +1,16 @@
+{
+  "name": "render-province-district-ward",
+  "version": "1.0.0",
+  "description": "A lightweight and easy-to-use package for dynamically rendering Province, District, and Ward dropdowns. With seamless API integration and flexible customization, it simplifies location-based form creation for any project. Perfect for e-commerce, administrative systems, and more!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NhanCopyCode/validate-form-library.git"
+},
+  "author": "Nhangg",
+  "license": "ISC"
+}
